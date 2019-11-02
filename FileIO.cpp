@@ -12,6 +12,7 @@
 #include "../327_proj3_test/includes/constants.h"
 
 using namespace std;
+using namespace KP_FileIO;
 
 
 int KP_FileIO::getFileContents(const std::string &filename, std::string &contents)
