@@ -1,8 +1,8 @@
 /*
  * FileReader.cpp
  *
- *  Created on: Oct 8, 2017
- *      Author: keith
+ *  Created on: Nov 1, 2019
+ *      Author: Adam Bates
  */
 #include <iostream>
 #include <fstream>
